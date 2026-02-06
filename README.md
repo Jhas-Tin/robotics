@@ -1,10 +1,10 @@
-# robotics
+# Robotic Car
 
-A new Flutter project.
+A ESP32 WIFI controller Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a ESP32 WIFI Controller Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
